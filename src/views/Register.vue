@@ -7,7 +7,7 @@
 
 <script lang="ts">
 import { Options, Vue } from "vue-class-component";
-import RegisterForm from "@/components/RegisterForm.vue"; // @ is an alias to /src
+import RegisterForm from "@/fire-admin-vue/components/RegisterForm.vue"; // @ is an alias to /src
 
 @Options({
   components: {

@@ -6,7 +6,7 @@
 
 <script lang="ts">
 import { Options, Vue } from "vue-class-component";
-import LoginForm from "@/components/LoginForm.vue"; // @ is an alias to /src
+import LoginForm from "@/fire-admin-vue/components/LoginForm.vue"; // @ is an alias to /src
 
 @Options({
   components: {
